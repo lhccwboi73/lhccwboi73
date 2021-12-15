@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lhccwboi73
+- 👋 Hi, I’m Luciano
 - 👀 I’m interested in Data Analysis with Python
 - 🌱 I’m currently learning Python - beginner level
 - 💞️ I’m looking to collaborate on any project I can learn something new.
